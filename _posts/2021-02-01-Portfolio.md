@@ -8,7 +8,7 @@ tags: [포트폴리오]
 
 * 이름 : 허지용
 * 나이 : 36
-* 경력 : 웹 풀스택 6년차
+* 경력 : Java 개발 6년차
 * 사용 스킬
   * Language & Framework :JAVA, JavaScript, Html, Jsp, Css, Spring, XPlatform
   * DataBase : Oracle, MySql, MariaDB
