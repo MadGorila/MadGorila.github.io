@@ -41,7 +41,7 @@ image:
   * <b>역할</b> | 개발 및 유지보수 (1인 개발)
   * <b>환경 및 도구</b> | Eclipse, HTML5, CSS3, jQueryMobile, WebOS, WebDB
 <br/>
-    
+<br/>    
 ## 파이낸셜 데이터 시스템
 #### 벤처투자 종합 정보 시스템 개발
   * 한국 벤처투자 종합 정보 시스템 공통 개발
@@ -52,6 +52,7 @@ image:
   * <b>환경 및 도구</b> | eGovFramework, Java, Spring, XPlatform, myBatis, Oracle DB, Linux, redmine, SVN
 <br/>
 <br/>
+    
 #### 신한은행 차세대 수탁 시스템 개발
   * 신한은행 차세대 수탁 시스템 중 수탁 대차 관련 화면 및 서버 개발
   * <b>역할</b> | 수탁 대차팀 팀원, 프론트 및 백엔드 개발
@@ -67,6 +68,7 @@ image:
   * <b>환경 및 도구</b> | IntelliJ, Java, Spring, Oracle DB, jQuery, bootstrap, myBatis, AWS, gradle, git, Jenkins, Swagger
 <br/>
 <br/>
+    
 ## XO Soft (프리랜서)    
 #### 강남 보건소 웹페이지 및 CMS 페이지 유지보수 
   * 신규 설문조사 페이지 및 CMS 페이지 개발
@@ -82,6 +84,7 @@ image:
   * <b>환경 및 도구</b> | eGovFramework, Java, Spring, Oracle DB, maven, jQuery, bootstrap, myBatis, git, Jenkins
 <br/>
 <br/>
+    
 ## 얍컴퍼니    
 #### CMS 유지보수 및 고도화
   * CMS 2.0 -> CMS 3.0으로 고도화 개발
@@ -111,6 +114,7 @@ image:
   * <b>환경 및 도구</b> | Eclipse, Java, Spring Boot, maria DB, jQuery, thymeleaf, myBatis, AWS, gradle, git, Jenkins, Swagger
 <br/>
 <br/>
+    
 ## 버넥트    
 #### CMS 백엔드 개발
   * AR 컨텐츠 관리 서비스 백엔드 API 생성 및 관리
