@@ -1,14 +1,9 @@
 ---
 layout: post
 title: 포트폴리오
-description: "잔디심기를 위한 테스트"
-modified: 2019-01-21
+description: "포트폴리오"
+modified: 2021-02-02
 tags: [포트폴리오]
-image:
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 * 이름 : 허지용
